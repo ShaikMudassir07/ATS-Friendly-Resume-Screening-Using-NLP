@@ -59,3 +59,14 @@ Then open the link shown in your terminal — usually http://localhost:8501/.
 git clone https://github.com/your-username/ats-resume-screening-nlp.git
 cd ats-resume-screening-nlp
 ```
+
+## 📊 Example Output
+
+| Section | Screenshot |
+|----------|-------------|
+| **1. Home Page** | ![Home Page](Images/r1.png) |
+| **2. Resume Upload Section** | ![Resume Upload](Images/r6.png) |
+| **3. ATS Score Result** | ![ATS Score](Images/r2.png) |
+| **4. Skill Matching Visualization** | ![Visualization](Images/r4.png)
+| **4. Skill Matching Visualization** | ![Visualization](Images/r5.png)
+
