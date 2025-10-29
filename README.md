@@ -64,9 +64,9 @@ cd ats-resume-screening-nlp
 
 | Section | Screenshot |
 |----------|-------------|
-| **1. Home Page** | ![Home Page](Images/r1.png) |
-| **2. Resume Upload Section** | ![Resume Upload](Images/r6.png) |
-| **3. ATS Score Result** | ![ATS Score](Images/r2.png) |
-| **4. Skill Matching Visualization** | ![Visualization](Images/r4.png)
-| **4. Skill Matching Visualization** | ![Visualization](Images/r5.png)
+| **1. Home Page** | ![Home Page](images/r1.png) |
+| **2. Resume Upload Section** | ![Resume Upload](images/r6.png) |
+| **3. ATS Score Result** | ![ATS Score](images/r2.png) |
+| **4. Skill Matching Visualization** | ![Visualization](images/r4.png)
+| **4. Skill Matching Visualization** | ![Visualization](images/r5.png)
 
